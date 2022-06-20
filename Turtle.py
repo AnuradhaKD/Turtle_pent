@@ -8,3 +8,5 @@ for i in range(288):
 	turtle.forward(i)
 	turtle.left(59)
 turtle.done()
+
+#	~AkD~
